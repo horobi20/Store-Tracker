@@ -1,0 +1,7 @@
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\obj\Debug\StoreTracker.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\obj\Debug\StoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\bin\Debug\StoreTracker.exe.config
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\bin\Debug\StoreTracker.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\bin\Debug\StoreTracker.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\obj\Debug\StoreTracker.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\StoreTracker\StoreTracker\obj\Debug\StoreTracker.pdb
